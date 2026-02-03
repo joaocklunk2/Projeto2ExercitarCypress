@@ -4,6 +4,6 @@ describe('template spec', () => {
     cy.visit('https://www.cantinhodasqas.com.br/sites-para-praticar')
   })
   it('verifica título', () => {
-    cy.contains('span', 'Testes Manu')
+    cy.contains('span', 'Goodbye')
   })
 })
