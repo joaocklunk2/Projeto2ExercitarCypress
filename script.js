@@ -16,4 +16,5 @@ loginBtn.addEventListener('click', () => {
   } else {
     errorMsg.style.display = 'block';
   }
+  //teste
 });
